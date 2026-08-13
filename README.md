@@ -1,6 +1,6 @@
 # 🪔 Python Diwali Sales Analysis
 
-![Diwali Sales Analysis](diwali-sales-analysis-banner.png)
+![Diwali Sales Analysis](Diwali_Sales_Analysis_Consumer_Profile.png)
 
 ## 📊 Project Overview
 
